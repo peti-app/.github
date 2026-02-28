@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Peti Logo](https://via.placeholder.com/150x150/6B2FA0/FFFFFF?text=Peti)
+![Peti Logo](./image.png)
 
 **Sistema de Gestão Inteligente para Pet Shops**
 
